@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700|Lato:400,700|Nobile:400,700);
+
+@font-face {
+  font-family: 'MyriadProRegular';
+  src: 	url("../../../fonts/MyriadPro-Regular/myriadpro-regular-webfont.eot?") format("eot"), 
+		url("../../../fonts/MyriadPro-Regular/myriadpro-regular.ttf") format("truetype"), 
+		url("../../../fonts/MyriadPro-Regular/myriadpro-regular.svg") format("svg"),
+		url('../../../fonts/MyriadPro-Regular/myriadpro-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MyriadProSemi';
+  src: 	url("../../../fonts/MyriadPro-Semibold/myriadpro-semibold.eot?") format("eot"), 
+		url("../../../fonts/MyriadPro-Semibold/myriadpro-semibold.ttf") format("truetype"), 
+		url("../../../fonts/MyriadPro-Semibold/myriadpro-semibold.svg") format("svg"),
+		url('../../../fonts/MyriadPro-Semibold/myriadpro-semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'MyriadProBold';
+  src:  url("../../../fonts/MyriadPro-Bold/myriadpro-bold.eot?") format("eot"), 
+		url("../../../fonts/MyriadPro-Bold/myriadpro-bold.ttf") format("truetype"), 
+		url("../../../fonts/MyriadPro-Bold/myriadpro-bold.svg") format("svg"),
+		url('../../../fonts/MyriadPro-Bold/myriadpro-bold.woff') format('woff'),
+}
+
+@font-face {
+    font-family: 'OriyaMNRegular';
+    src: url('../../../fonts/Oriya-mn/oriya_mn-webfont.eot');
+    src: local('&#9786;'), 
+          url('../../../fonts/Oriya-mn/oriya_mn-webfont.woff') format('woff'), 
+          url('../../../fonts/Oriya-mn/oriya_mn-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
